@@ -3,5 +3,5 @@ Here Swipe library used to swipe the card
 
 ## Demo
 <video controls autoplay>
-  <source src="https://github.com/1902shubh/SwipeWords/blob/master/WhatsApp%20Video%202021-05-10%20at%207.38.56%20PM.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/46995327/117678118-b733c480-b1cc-11eb-8d1b-ad41f11fa589.mp4" type="video/mp4">
 </video>
